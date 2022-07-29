@@ -115,6 +115,7 @@ h2.description-header {
 
   p {
     font-size: 15px;
+    text-align: center;
   }
 
   .contact-link,
@@ -129,9 +130,16 @@ h2.description-header {
   .project-links {
     padding: 10px 7px;
     font-size: 15px;
+    display: block;
+    margin: 0 20px;
+    text-align: center;
   }
 
   .email-link {
     font-size: 18px;
+  }
+
+  h2.description-header {
+    text-align: center;
   }
 }
